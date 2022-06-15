@@ -32,5 +32,6 @@
 
 ;(sum sumsquared 3 5)
 
-(member? 'e 'get)
-((lambda (x) x * x) 6)
+;(member? 'e 'get)
+;((lambda (x) x * x) 6)
+

@@ -10,8 +10,8 @@
     (word (bl wd) "ies")
     (word wd "s")))
 
-;;(display (plural "book"))
-;;(display "\n")
+(display (plural "body"))
+(display "\n")
 
 ;;; Pig latin
-(display (pl-done? "scheme"))
+;(display (pl-done? "scheme"))
